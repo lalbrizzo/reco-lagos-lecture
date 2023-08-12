@@ -7,3 +7,18 @@ All the necessary libraries can be installed by using
 ```
 pip install -r requirements.txt file 
 ```
+
+
+References & further reading
+
+Every reference present in the slide should be accompanied by an hyperlink which points towards the reference.
+
+For convience, I list also here the main references and further readings are:
+
+- [Building Machine Learning Systems with Python](https://freecomputerbooks.com/Building-Machine-Learning-Systems-with-Python.html)
+
+- [GymReco](https://github.com/criteo-research/reco-gym)
+
+- [Dive into Deep Learning](https://www.d2l.ai/index.html)
+
+Do not hesitate to contact me if you have any further question about this lecture at luca.alb.rizzo@gmail.com
